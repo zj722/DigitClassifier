@@ -1,5 +1,7 @@
 # Illustration provenance
 
+The assets for `tutorial_1_cnn.ipynb`, Part 2, have a separate [source and generation record](tutorial_1_cnn/README.md), including verified upstream attribution and the MIT license for the reused padding and stride animations.
+
 The Tutorial 1 illustrations listed below are local copies of illustrations linked in the user-supplied `Copy_of_02_CNN_Introduction_副本.ipynb`. They are reused in Tutorial 1 to explain the same operations. The reference notebook is retained as supplied; the new course text and code are in English and use PyTorch.
 
 The reference credits Irhum Shafkat's [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) for the convolution explanations and animations. Exact asset links from that notebook are preserved below. The original creators retain ownership of these illustrations.
